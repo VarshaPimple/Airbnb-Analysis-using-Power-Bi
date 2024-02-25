@@ -1,5 +1,5 @@
-![image](https://github.com/VarshaPimple/Airbnb-Analysis-using-Power-Bi/assets/147611090/8e1ab8d7-5934-4228-99af-0d27caa1adda)# Airbnb-Analysis-with-Power-Bi
-## Airbnb listings and reviews
+
+# Airbnb data Analysis Using Power Bi
 For this challenging project I had a pleasure to analyze Airbnb data
 
 ### Objective
